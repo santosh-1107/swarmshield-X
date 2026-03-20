@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --color-primary: #10b981;
+  --color-dark: #0f172a;
+  --color-darker: #020617;
+  --color-danger: #ef4444;
+  --color-warning: #f59e0b;
+}
+
+@layer base {
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    font-family: var(--font-family-sans);
+  }
+}
+
+@keyframes bounceIn {
+  0% { opacity: 0; transform: translate(-50%, -20px) scale(0.8); }
+  60% { transform: translate(-50%, 0) scale(1.1); }
+  100% { opacity: 1; transform: translate(-50%, 0) scale(1); }
+}
+
+.animate-bounce-in {
+  animation: bounceIn 0.4s cubic-bezier(0.32, 0.72, 0, 1);
+}
