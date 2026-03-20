@@ -509,55 +509,10 @@ PHASE 3: Platform Integrations
 │ payout_rate │     │ status      │
 └─────────────┘     │ created_at  │
                     └─────────────┘
-```
 
 ---
 
-## 11. 🎬 Demo Flow (2-Min Walkthrough)
-
-### Video Scenario: "Ravi's Rainy Day"
-
-```
-SCENE 1: FRIDAY EVENING (Prediction)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📱 Ravi opens SwarmShield X app
-📊 Dashboard shows: "⚠️ Rain Alert for Koramangala"
-💡 AI Suggestion: "Tomorrow has 80% rain risk. Consider HSR Layout (20% risk)"
-✅ Ravi acknowledges, switches zone suggestion to ON
-
-SCENE 2: SATURDAY MORNING (Protection Active)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌧️ Heavy rain starts at 2 PM in Koramangala
-📱 Push notification: "Rain detected. Your protection is active."
-📊 SwarmShield tracks: 18mm/hour rainfall
-👥 70% of workers in Koramangala reporting low orders
-
-SCENE 3: SATURDAY EVENING (Automatic Payout)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💰 Push notification: "₹300 credited to your account"
-📱 Claim details:
-    - Trigger: Rainfall (2 hours)
-    - Payout: ₹150/hour × 2 = ₹300
-    - Method: UPI (instant)
-📊 Dashboard updates with claim history
-
-SCENE 4: SUNDAY (Learning)
-━━━━━━━━━━━━━━━━━━━━━━━━━
-📊 Ravi sees updated risk score for next week
-🤖 AI learns: "Saturday predictions were accurate"
-💡 New suggestion for next weekend's weather pattern
-```
-
-### Key Demo Points
-
-1. **Zero-friction protection**: No claims form, no waiting
-2. **AI-powered foresight**: Warned 18+ hours in advance
-3. **Instant value delivery**: Money in account within minutes
-4. **Transparent process**: Full visibility into why/how payout happened
-
----
-
-## 12. 🚀 Future Scope
+## 11. 🚀 Future Scope
 
 ### Short-Term (Phase 2: Next 3 Months)
 
